@@ -7,18 +7,18 @@
 ?>
 <html lang = "eng">
 	<head>
-		<title>Simple Attendance Record System</title>
+		<title>Student Attendance Record System</title>
 		<meta charset = "utf-8" />
 		<meta name = "viewport" content = "width=device-width, initial-scale=1" />
 		<link rel = "stylesheet" type = "text/css" href = "css/bootstrap.css" />
 		<link rel = "stylesheet" type = "text/css" href = "css/style.css" />
 	</head>
-	<body>
+	<body style="background-image: radial-gradient(   circle at center left,red 1%,blue 90% );">
 		<nav class = "navbar navbar-inverse navbar-fixed-top">
 			<div class = "container-fluid">
-				<div class = "navbar-header">
-					<img src = "images/logo.png" width = "200px" height = "50px"/>
-					<p class = "navbar-text pull-right">Simple Attendance Record System</p>
+				<div>
+					
+					<p class = "navbar-text pull-right" ><center><h3 style="color: white;">Welcome to Attendance Record System</h3></center></p>
 				</div>
 			</div>
 		</nav>
@@ -50,12 +50,7 @@
 				</div>
 			</div>
 		</div>
-		<div class = "navbar navbar-fixed-bottom alert-warning">
-			<div class = "container-fluid">
-				<label class = "pull-left">&copy; Simple Attendance Record System 2016</label>
-				<label class = "pull-right">Developer: Mark Arvin Arandilla</a></label>
-			</div>	
-		</div>
+		
 	</body>
 	
 </html>
