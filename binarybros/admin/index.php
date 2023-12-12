@@ -52,5 +52,7 @@
 		</div>
 		
 	</body>
-	
+	<script src = "js/jquery.js"></script>
+	<script src = "js/bootstrap.js"></script>
+	<script src = "js/login.js"></script>
 </html>
